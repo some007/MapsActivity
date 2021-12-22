@@ -1,0 +1,6 @@
+com/example/mapsactivity/MainActivity.java
+ com.example.mapsactivity.MainActivity
+ com.example.mapsactivity.MainActivity$1
+ com.example.mapsactivity.MainActivity$2
+com/example/mapsactivity/BuildConfig.java
+ com.example.mapsactivity.BuildConfig
