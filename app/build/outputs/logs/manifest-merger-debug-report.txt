@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\user\.gradle\caches\transforms-3\1508bc0f4d67cb1fb46dec23183d0585\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\user\.gradle\caches\transforms-3\66bbb9fe8c9e1863a78a4ee4625746ef\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:2:1-23:12
+MERGED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\user\.gradle\caches\transforms-3\46d15f5c58a469270eeba15db4463d05\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.maps.android:android-maps-utils:2.2.3] C:\Users\user\.gradle\caches\transforms-3\3344579afe96effab25a881ad2ab40e5\transformed\jetified-android-maps-utils-2.2.3\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -56,31 +57,33 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\user\.gradle\caches\transforms
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\user\.gradle\caches\transforms-3\b521f32a8ca2115704fce9eaa65230c1\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\user\.gradle\caches\transforms-3\773fb16e50f57a59958f8481540bd53e\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\user\.gradle\caches\transforms-3\c0bf4b75085e7776c896ff829299f0fe\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\user\.gradle\caches\transforms-3\1508bc0f4d67cb1fb46dec23183d0585\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\user\.gradle\caches\transforms-3\1508bc0f4d67cb1fb46dec23183d0585\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\user\.gradle\caches\transforms-3\66bbb9fe8c9e1863a78a4ee4625746ef\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\user\.gradle\caches\transforms-3\66bbb9fe8c9e1863a78a4ee4625746ef\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:13:5-21:19
+MERGED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.maps.android:android-maps-utils:2.2.3] C:\Users\user\.gradle\caches\transforms-3\3344579afe96effab25a881ad2ab40e5\transformed\jetified-android-maps-utils-2.2.3\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.maps.android:android-maps-utils:2.2.3] C:\Users\user\.gradle\caches\transforms-3\3344579afe96effab25a881ad2ab40e5\transformed\jetified-android-maps-utils-2.2.3\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\user\.gradle\caches\transforms-3\e4e00897824d46e28636889b2186fed5\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
@@ -123,22 +126,28 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\user\.gradle\cache
 		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:11:9-50
-activity#com.example.mapsactivity.MainActivity
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:12:9-20:20
+activity#com.example.mapsactivity.MapsActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.mapsactivity.MainActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\user\AndroidStudioProjects\MapsActivity\app\src\main\AndroidManifest.xml
@@ -149,6 +158,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\user\.gr
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\user\.gradle\caches\transforms-3\66bbb9fe8c9e1863a78a4ee4625746ef\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:7:5-44
 MERGED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:7:5-44
+MERGED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\user\.gradle\caches\transforms-3\46d15f5c58a469270eeba15db4463d05\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\user\.gradle\caches\transforms-3\46d15f5c58a469270eeba15db4463d05\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.maps.android:android-maps-utils:2.2.3] C:\Users\user\.gradle\caches\transforms-3\3344579afe96effab25a881ad2ab40e5\transformed\jetified-android-maps-utils-2.2.3\AndroidManifest.xml:7:5-9:41
@@ -285,6 +296,16 @@ ADDED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gra
 		ADDED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:18:13-61
 	android:name
 		ADDED from [com.google.android.libraries.places:places:2.5.0] C:\Users\user\.gradle\caches\transforms-3\394f510460f7693d0dbce7b2964f4c60\transformed\jetified-places-2.5.0\AndroidManifest.xml:15:13-91
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:3.0.0] C:\Users\user\.gradle\caches\transforms-3\ab42f9ed99188b56fc20bfe013647bfd\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
 meta-data#com.google.android.gms.version
 ADDED from [com.google.maps.android:android-maps-utils:2.2.3] C:\Users\user\.gradle\caches\transforms-3\3344579afe96effab25a881ad2ab40e5\transformed\jetified-android-maps-utils-2.2.3\AndroidManifest.xml:12:9-14:69
 MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-3\5391c98aa28248e4331e7959c0ef6d03\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69

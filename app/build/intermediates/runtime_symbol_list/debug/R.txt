@@ -1135,6 +1135,9 @@ int color cardview_light_background 0x7f05002b
 int color cardview_shadow_end_color 0x7f05002c
 int color cardview_shadow_start_color 0x7f05002d
 int color checkbox_themeable_attribute_color 0x7f05002e
+int color colorAccent 0x7f050248
+int color colorPrimary 0x7f050249
+int color colorPrimaryDark 0x7f05024a
 int color common_google_signin_btn_text_dark 0x7f05002f
 int color common_google_signin_btn_text_dark_default 0x7f050030
 int color common_google_signin_btn_text_dark_disabled 0x7f050031
@@ -2522,6 +2525,7 @@ int id line3 0x7f0800f0
 int id linear 0x7f0800f1
 int id listMode 0x7f0800f2
 int id list_item 0x7f0800f3
+int id map 0x7f0801f9
 int id masked 0x7f0800f4
 int id match_constraint 0x7f0800f5
 int id match_parent 0x7f0800f6
@@ -2852,6 +2856,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_maps 0x7f0b007c
 int layout amu_info_window 0x7f0b001d
 int layout amu_text_bubble 0x7f0b001e
 int layout amu_webview 0x7f0b001f
@@ -3083,8 +3088,11 @@ int string places_cancel 0x7f10007e
 int string places_powered_by_google 0x7f10007f
 int string places_search_error 0x7f100080
 int string places_try_again 0x7f100081
+int string rationale_ask 0x7f100084
+int string rationale_ask_again 0x7f100085
 int string search_menu_title 0x7f100082
 int string status_bar_notification_info_overflow 0x7f100083
+int string title_settings_dialog 0x7f100086
 int style AlertDialog_AppCompat 0x7f110000
 int style AlertDialog_AppCompat_Light 0x7f110001
 int style AndroidThemeColorAccentYellow 0x7f110002
@@ -3093,6 +3101,7 @@ int style Animation_AppCompat_DropDownUp 0x7f110004
 int style Animation_AppCompat_Tooltip 0x7f110005
 int style Animation_Design_BottomSheetDialog 0x7f110006
 int style Animation_MaterialComponents_BottomSheetDialog 0x7f110007
+int style AppTheme_AppBarOverlay 0x7f1102da
 int style Base_AlertDialog_AppCompat 0x7f110008
 int style Base_AlertDialog_AppCompat_Light 0x7f110009
 int style Base_Animation_AppCompat_Dialog 0x7f11000a
@@ -3316,6 +3325,8 @@ int style Base_Widget_MaterialComponents_TextView 0x7f1100e3
 int style CardView 0x7f1100e4
 int style CardView_Dark 0x7f1100e5
 int style CardView_Light 0x7f1100e6
+int style EasyPermissions 0x7f1102db
+int style EasyPermissions_Transparent 0x7f1102dc
 int style EmptyTheme 0x7f1100e7
 int style MaterialAlertDialog_MaterialComponents 0x7f1100e8
 int style MaterialAlertDialog_MaterialComponents_Body_Text 0x7f1100e9

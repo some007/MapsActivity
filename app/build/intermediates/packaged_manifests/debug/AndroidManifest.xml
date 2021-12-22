@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MapsActivity" >
         <activity
+            android:name="com.example.mapsactivity.MapsActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.mapsactivity.MainActivity"
             android:exported="true" >
             <intent-filter>
@@ -43,6 +46,11 @@
             android:theme="@style/PlacesAutocompleteOverlay"
             android:windowSoftInputMode="adjustResize" >
         </activity>
+        <activity
+            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/EasyPermissions.Transparent" />
 
         <meta-data
             android:name="com.google.android.gms.version"

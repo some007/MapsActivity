@@ -39,5 +39,9 @@ dependencies {
     implementation 'com.google.maps.android:android-maps-utils:2.2.3'
     implementation 'com.google.android.libraries.places:places:2.5.0'
 
+    // For developers using AndroidX in their applications
+    implementation 'pub.devrel:easypermissions:3.0.0'
+
+
 
 }
